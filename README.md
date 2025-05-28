@@ -11,10 +11,6 @@
 
 *Transforming Healthcare Management Through Modern Architecture*
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/ErNitesh-d/HealthPlus-A-Microservices-Based-Healthcare-Management-System)](https://github.com/ErNitesh-d/HealthPlus-A-Microservices-Based-Healthcare-Management-System/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/ErNitesh-d/HealthPlus-A-Microservices-Based-Healthcare-Management-System)](https://github.com/ErNitesh-d/HealthPlus-A-Microservices-Based-Healthcare-Management-System/stargazers)
-
 </div>
 
 ---
@@ -345,10 +341,6 @@ lsof -ti:8080 | xargs kill -9
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 🎯 Roadmap
@@ -364,9 +356,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**Er. Nitesh**  
+**Nitesh Dagiya**  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErNitesh-d)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dagiya-nitesh)
 
 ---
 
